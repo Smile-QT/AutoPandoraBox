@@ -1,4 +1,4 @@
-# AutoSetPandoraBox
+# AutoPandoraBox
 ### 操作步骤
 
 1. 电脑预先安装 NetKeeper，设置好账号
