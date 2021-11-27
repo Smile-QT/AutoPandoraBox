@@ -8,7 +8,7 @@ HOST = '192.168.1.1'
 USER = 'root'
 PASSWORD = '09272021'
 
-ROUTE_URL = 'http://192.168.1.1/'
+ROUTE_URL = 'http://' + HOST
 BAIDU_URL = 'https://www.baidu.com/'
 # 路由器内部命令
 CMD_NK4C = "ash --login -c 'sh nk4conf.sh'"
